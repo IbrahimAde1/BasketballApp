@@ -1,16 +1,54 @@
-# basketballapp
+# BasketBall app
 
-A new Flutter project.
+# Hi, I'm Ibrahim ! 👋
 
-## Getting Started
+# Project Title
 
-This project is a starting point for a Flutter application.
+A brief description of what this project does and who it's for
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Install packages with flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  flutter run
+```
+
+build android release :
+
+```bash
+  flutter build apk --release
+```
+
+build android debug :
+
+```bash
+  flutter build web --relase
+```
+
+build android debug :
+
+```bash
+  flutter build web --debug
+```
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+## Optimizations
+
+What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+
+## Tech Stack
+
+**Client:** flutter
+
+**Server:** Node, Express
