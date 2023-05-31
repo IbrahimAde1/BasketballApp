@@ -38,7 +38,6 @@ build android debug :
 
 ## Features
 
-- Light/dark mode toggle
 - Live previews
 - Fullscreen mode
 - Cross platform
@@ -50,5 +49,3 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 ## Tech Stack
 
 **Client:** flutter
-
-**Server:** Node, Express
