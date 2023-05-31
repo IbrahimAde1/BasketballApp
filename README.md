@@ -34,8 +34,9 @@ build android debug :
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/IbrahimAde1/BasketballApp/blob/main/screenshot/flutter_02.png?raw=true)
 
+![App Screenshot](https://github.com/IbrahimAde1/BasketballApp/blob/main/screenshot/flutter_01.png)
 ## Features
 
 - Live previews
